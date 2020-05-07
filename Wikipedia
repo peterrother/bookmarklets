@@ -1,0 +1,1 @@
+javascript:location%20=%20'http://en.wikipedia.org/wiki/'+encodeURIComponent(prompt('Enter%20title'));
