@@ -1,0 +1,1 @@
+javascript:location%20=%20'https://forecast.weather.gov/zipcity.php?inputstring='+encodeURIComponent(prompt('Enter%20city%20or%20zip','45202'));
