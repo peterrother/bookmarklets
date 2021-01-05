@@ -1,0 +1,1 @@
+javascript:location%20=%20'https://emojipedia.org/search/?q='+encodeURIComponent(prompt('Enter%20emoji%20here'));
